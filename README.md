@@ -1,8 +1,6 @@
-Durandal Mimosa Skeleton
-========================
+Durandal Mimosa Skeleton and Microsoft Azure
+============================================
 
-This repository contains the Durandal skeleton for the Mimosa browser development toolkit.
+This repository contains the Durandal skeleton for the Mimosa browser development toolkit. Its commit log also shows the necessary steps for getting it to work on Microsoft Azure (with automatic deployment via GitHub).
 
-1. Use `make start` to start up an asset server and begin coding immediately.
-2. Use `make build-opt` to create your optimized application. The deployable source will be output to a 'dist' folder.
-3. See the [Mimosa](http://mimosa.io/) project for details on how to customize the solution and use other features.
+See [this blog post](http://petermorlion.blogspot.be/2014/03/getting-mimosa-durandal-app-to-work-on.html) for a more detailed explanation.
