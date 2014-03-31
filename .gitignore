@@ -27,6 +27,7 @@ what
 # Output folder
 /public
 # /dist
+/dist/node_modules
 
 # Numerous always-ignore extensions
 *~
